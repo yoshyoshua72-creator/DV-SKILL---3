@@ -221,6 +221,3 @@ Aspiring Data Analyst | Python Programmer | Data Visualization Enthusiast
 
 This project was developed to gain practical experience in Python-based data analysis and visualization.
 
----
-
-⭐ If you find this project useful, consider giving the repository a star!
